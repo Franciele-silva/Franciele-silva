@@ -20,7 +20,7 @@
  
 ##
 <div align="center">
-   <a target="_blank" href= "https://www.linkedin.com/in/franciele-silva-32a71a14a/">
+   <a  href= "https://www.linkedin.com/in/franciele-silva-32a71a14a/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a target="_blank" href= "https://www.instagram.com/franciiele.silva/">
